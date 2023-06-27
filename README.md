@@ -1,6 +1,6 @@
 # gadomski
 
-:snowflake: | :runner: | 🥏 平
+:snowflake: | :runner:
 
 
 - :briefcase: geospatial software for [Element 84](https://github.com/Element84/)
