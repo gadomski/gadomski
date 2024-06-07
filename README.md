@@ -3,4 +3,4 @@
 :snowflake: | :runner:
 
 
-- :seedling: [stac-rs](https://github.com/gadomski/stac-rs) (hobby project)
+- :seedling: [stac-rs](https://github.com/gadomski/stac-rs)
