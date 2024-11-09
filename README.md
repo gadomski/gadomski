@@ -4,5 +4,5 @@
 
 
 - 👷 [stac-rs](https://github.com/gadomski/stac-rs)
-- 🌱 [stac-rs](https://github.com/gadomski/heystac)
+- 🌱 [heystac](https://github.com/gadomski/heystac)
 
