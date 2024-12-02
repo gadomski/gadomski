@@ -3,6 +3,4 @@
 :snowflake: | :runner:
 
 
-- 👷 [stac-rs](https://github.com/gadomski/stac-rs)
-- 🌱 [heystac](https://github.com/gadomski/heystac)
-
+- 👷 [stac-rs](https://github.com/gadomski/stac-rs) and [stacrs](https://github.com/gadomski/stacrs)
